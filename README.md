@@ -12,3 +12,10 @@ Calendar tiles view showing in green days where % of task marked as done was gre
 
 Different panels can be shown at the same time
 ![alt text](https://github.com/kiwinir/Calendar/blob/main/img/ToDoPanelAndCalendarTilesPanel.png?raw=true)
+
+
+Planned things:
+	- Other types of notes : Events, goals, simple notes.
+	- A way to create groups of notes, allowing to filter and sort by groups.
+	- Editing notes (currently only deleting is possible).
+	- Calendar panel view with time on the side, which would allow to put events and task on particular date and time on Calendar.
